@@ -22,4 +22,4 @@
 
 # 2. Big-O gösterimini yazınız.
 
-### Merge Sort türüne göre gösterilen dizilerde Big-O gösterimi O(nlogn) şeklinde ifade edilir. Dizide toplam da 6 adet eleman bulunduğundan dolayı O(6log6) şeklinde yazılabilir.
+Merge Sort türüne göre gösterilen dizilerde Big-O gösterimi O(nlogn) şeklinde ifade edilir. Dizide toplam da 6 adet eleman bulunduğundan dolayı O(6log6) şeklinde yazılabilir.
